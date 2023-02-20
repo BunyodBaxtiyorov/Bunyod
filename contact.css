@@ -1,0 +1,146 @@
+body{
+    background-color:  rgba(243, 243, 243, 0.693);
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.ddd{
+    color: #666;
+    position: relative;
+    top: 25px;
+    font-size: 35px;
+    left: 10px;
+    
+}
+a{
+  text-decoration: none;  
+  font-size: 23px;
+}
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+    margin-left: 20px;
+    
+  
+    
+   
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 30px;
+}
+#z{
+    border-bottom: 3px solid blue;
+
+    
+ }
+
+ .images{
+    background-image: url(/img/new-vision-04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1300px;
+    height: 700px;
+    align-items: center;
+    margin-left: 55px;
+ }
+ .oq{
+    background-color: white;
+    width: 1300px;
+    height: 1500px;
+    margin-left: 55px;
+}
+.but{
+    padding: 25px;
+    background-color: #c99;
+    width: 320px;
+    font-size: 25px;
+    border: none;
+    margin-bottom: 40px;
+    color: white;
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+    
+}
+#id{
+    padding: 25px;
+    width: 500px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    color: black;
+    font-size: 17px;
+    border-bottom: 1px solid black;
+}
+#az{
+    position: relative;
+    left: 105px;
+
+}
+::placeholder{
+    color: black;
+}
+.di{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.div2{
+    position: relative;
+    top: 50px ;
+    left: 20px;
+}
+.send{
+    padding: 20px;
+    width: 130px;
+    color: white;
+    background-color: #c99;
+    position: relative;
+    left: 400px;
+    font-size: 15px;
+    border: none;
+    top: 30px;
+
+}
+textarea{
+    height: 70px;
+}
+.gmap_canvas{
+ position: relative;
+ top: 130px;
+}
+.qism{
+    display: grid;
+    grid-template-columns: auto  auto;
+    position: relative;
+    top: 170px;
+    left: 150px;
+
+}
+h4{
+    color: #09ff;
+}
+.qism1{
+    display: grid;
+    grid-template-columns: auto auto;
+    position: relative;
+    left: 90px;
+    top: 170px;
+}
+#x:hover{
+border-bottom: 3px solid blue ;
+}
+.men{
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(212, 204, 204);
+   
+}
