@@ -1,0 +1,148 @@
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+.ddd{
+    color: #666;
+    
+}
+a{
+  text-decoration: none;  
+  font-size: 23px;
+}
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+    margin-left: 20px;
+   
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 30px;
+
+}
+.z{
+border-bottom: 3px solid blue;
+
+}
+
+.image{
+    background-image: url(/D953CE7F-443D-427E-B0C8-B61F1F0784CE.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+}
+#z{
+    margin-top: 47%;
+    padding:  30px;
+   margin-left: 20px;
+    width: 320px;
+    background-color: #c99;
+    color: white;
+    border: none;
+    font-size: 20px;
+
+}
+.bino{
+    display: flex;
+  justify-content: space-around;
+    margin-top: 100px;
+    align-items: center;
+    margin-left: 70px;
+}
+p{
+    font-size: 17px;
+}
+.x{
+    margin-right: 16px;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+.temp1{
+    background-color: white;
+    border: 1px solid black;
+    width: 270px;
+ height: 270px;
+}
+i{
+    font-size: 40px;
+    padding: 20px;
+
+}
+#d{
+
+    position: relative;
+    left: 10px;
+}
+.temp{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+#but{
+    background-color: #c99;
+    padding: 10px;
+    width: 100px;
+    border: none;
+    color: white;
+    margin-top: 0px;
+    margin-left: 150px;
+}
+.temp2{
+    background-color: white;
+    border: 1px solid black;
+    width: 270px;
+ height: 270px;
+}
+.temp3{
+    background-color: white;
+    border: 1px solid black;
+    width: 270px;
+ height: 270px;
+}
+.x{
+    position: relative;
+    left: 15px;
+}
+.bino2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    align-items: center;
+    margin-left: 70px;
+}
+.b{
+    font-family: cursive;
+}
+.button1{
+    padding:  25px;
+    margin-left: 20px;
+     width: 420px;
+     background-color: #c99;
+     color: white;
+     border: none;
+     font-size: 20px;
+     margin-top: 30px;
+}
+.tabiat{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+.men{
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(212, 204, 204);
+   
+}
+#x:hover{
+    border-bottom: 3px solid blue ;
+    }

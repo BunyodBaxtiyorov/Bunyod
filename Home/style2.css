@@ -1,0 +1,153 @@
+body{
+    background-color:  rgba(243, 243, 243, 0.693);
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+.ddd{
+    color: #666;
+    position: relative;
+    top: 25px;
+    font-size: 35px;
+    left: 10px;
+    
+    
+}
+a{
+  text-decoration: none;  
+  font-size: 23px;
+}
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+    margin-left: 20px;    
+   
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 30px;
+}
+#z{
+    border-bottom: 3px solid blue;
+    
+    }
+
+    .images{
+        background-image: url(/img/new-vision-02.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 1300px;
+        height: 700px;
+        align-items: center;
+        margin-left: 55px;
+    }
+    .image2{
+        background-color: white;
+        width: 1300px;
+        height: 1500px;
+        margin-left: 55px;
+      
+    }
+    .but{
+        padding: 25px;
+        background-color: #c99;
+        width: 320px;
+        font-size: 25px;
+        border: none;
+        margin-bottom: 40px;
+        color: white;
+        position: relative;
+        bottom: 30px;
+        left: 30px;
+        
+    }
+    .icon{
+        display: flex;
+       position: relative;
+       left: 130px;
+       
+    }
+.f{
+   position: relative;
+   left: 45px;
+}
+.icon2{
+    display: flex;
+   position: relative;
+   left: 150px;
+   top: 40px;
+}
+.f{
+position: relative;
+left: 50px;
+}
+.icon3{
+   display: flex;
+   position: relative;
+   left: 150px;
+   margin-top: 55px;
+}
+.fv{
+position: relative;
+left: 70px;
+}
+#c{
+    color: #09ff;
+}
+.but2{
+    padding: 16px;
+    background-color: #c99;
+    width: 520px;
+    font-size: 25px;
+    border: none;
+    margin-bottom: 40px;
+    color: white;
+    position: relative;
+
+    left: 20px;
+    top: 70px;
+    
+}
+.rasmlar-2{
+    display: grid;
+    grid-template-columns: auto auto;
+    position: relative;
+    left: 60px;
+    top: 50px;
+
+}
+.but4{
+    padding: 20px;
+    background-color: #c99;
+    width: 250px;
+    font-size: 20px;
+    border: none;
+    color: white;
+    position: relative;
+    bottom: 30px;
+    left: 35px;
+    top: 100px;
+    
+}
+.rasm-2{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    position: relative;
+    left: 45px;
+    top: 160px;
+}
+#x:hover{
+    border-bottom: 3px solid blue ;
+    }
+    .men{
+        text-align: center;
+        margin-top: 40px;
+        color: rgb(212, 204, 204);
+       
+    }

@@ -1,0 +1,214 @@
+body{
+    background-color:  rgba(243, 243, 243, 0.693);
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.ddd{
+    color: #666;
+    position: relative;
+    top: 25px;
+    font-size: 35px;
+    left: 10px;
+    
+    
+}
+a{
+  text-decoration: none;  
+  font-size: 23px;
+}
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+    margin-left: 20px;
+
+   
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 30px;
+}
+
+ #z  {
+    border-bottom: 3px solid blue;
+ }
+ .images{
+    background-image: url(/img/new-vision-03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1300px;
+    height: 700px;
+    align-items: center;
+    margin-left: 55px;
+}
+.oq{
+    background-color: white;
+    width: 1300px;
+    height: 1800px;
+    margin-left: 55px;
+}
+.zz{
+  
+    padding:  30px;
+   margin-left: 20px;
+    width: 320px;
+    background-color: #c99;
+    color: white;
+    border: none;
+    font-size: 20px;
+    position: relative;
+    bottom: 30px;
+}
+.rasm3{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    align-items: center;
+    position: relative;
+    left: 40px;
+}
+.text{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    position: relative;
+    left: 130px;
+}
+.but2{
+    padding: 16px;
+    background-color: #c99;
+    width: 520px;
+    font-size: 25px;
+    border: none;
+    margin-bottom: 40px;
+    color: white;
+    position: relative;
+
+    left: 20px;
+    top: 70px;
+}
+.juda{
+    display: grid;
+    grid-template-columns: auto auto;
+    position: relative;
+    top: 50px;
+    padding: 20px;
+}
+.juda1{
+    display: grid;
+    grid-template-columns: auto auto;
+    position: relative;
+    left: 50px;
+    border: 1px solid black;
+    width: 530px;
+    height: 300px;
+    border-left: 1px solid #66666655;
+    border-right: 1px solid #66666655;
+
+}
+.juda2{
+    display: grid;
+    grid-template-columns: auto auto;
+    position: relative;
+    left: 50px;
+    border: 1px solid black;
+    width: 530px;
+    height: 300px;
+    border-left: 1px solid #66666655;
+    border-right: 1px solid #66666655;
+
+}
+#a{
+    position: relative;
+    left: 20px;
+    top: 120px;
+    color:#09ff;
+}
+#sd{
+    position: relative;
+    top: 70px;
+    left: 30px;
+}
+.juda3{
+    display: grid;
+    grid-template-columns: auto auto;
+    position: relative;
+    top: 50px;
+    padding: 20px;
+}
+.juda4{
+    display: grid;
+    grid-template-columns: auto auto;
+    position: relative;
+    left: 50px;
+    border: 1px solid black;
+    width: 530px;
+    height: 300px;
+    border-left: 1px solid #66666655;
+    border-right: 1px solid #66666655;
+
+}
+.juda5{
+    display: grid;
+    grid-template-columns: auto auto;
+    position: relative;
+    left: 50px;
+    border: 1px solid black;
+    width: 530px;
+    height: 300px;
+    border-left: 1px solid #66666655;
+    border-right: 1px solid #66666655;
+
+}
+#a{
+    position: relative;
+    left: 20px;
+    top: 120px;
+    color: #09ff;
+}
+#sd{
+    position: relative;
+    top: 70px;
+    left: 30px;
+}
+.cx{
+    padding: 16px;
+    background-color: #c99;
+    width: 350px;
+    font-size: 25px;
+    border: none;
+    margin-bottom: 40px;
+    color: white;
+    position: relative;
+
+    left: 20px;
+    top: 70px;
+}
+.images1{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto ;
+    align-items: center;
+    position: relative;
+    top: 60px;
+    left: 60px;
+}
+.sd{
+    position: relative;
+    left: 60px;
+    top: 70px;
+}
+#x:hover{
+    border-bottom: 3px solid blue ;
+    }
+    .men{
+        text-align: center;
+        margin-top: 40px;
+        color: rgb(212, 204, 204);
+       
+    }
